@@ -6,7 +6,7 @@
 ---
 
 ### Live Demo  
-👉 [View Project Live](https://destructorbawa.github.io/Pathfinding-Visualizer/)
+👉 [View Project Live](https://destructorbawa.github.io/PS5-Games-3D-Model-Rotation/)
 
 ---
 
