@@ -1,21 +1,11 @@
 
----
-
-### PS5 Games 3D Model Rotation Viewer:
-
----
-
-### Live Demo  
-👉 [View Project Live](https://destructorbawa.github.io/PS5-Games-3D-Model-Rotation/)
-
----
-
-````markdown
-
 # PS5 Games 3D Model Rotation Viewer
 
 This project is a simple 3D visualization of a PlayStation 5 console using **Three.js**.
 The PS5 games are loaded and rendered in a web browser with automatic rotation for display or demonstration purposes.
+
+## Live Demo  
+👉 [View Project Live](https://destructorbawa.github.io/PS5-Games-3D-Model-Rotation/)
 
 ## Features
 
