@@ -5,7 +5,7 @@ This project is a simple 3D visualization of a PlayStation 5 console using **Thr
 The PS5 games are loaded and rendered in a web browser with automatic rotation for display or demonstration purposes.
 
 ## Live Demo  
-👉 [View Project Live](https://destructorbawa.github.io/PS5-Games-3D-Model-Rotation/)
+[![View Live](https://img.shields.io/badge/View%20Live-%231DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://saadmdev.github.io/PS5-Games-3D-Model-Rotation/)
 
 ## Features
 
